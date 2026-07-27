@@ -1,0 +1,12 @@
+print("===== STUDENT INFORMATION =====")
+
+print("Name: Eurijet V. Nava")
+print("Age: 18 Years old")
+
+print("Course: BSIT")
+
+print("Section: BSIT1-S9")
+
+print("Address: Masagana Street, Daan Sarile, Cabanatuan City, Philippines, 3100")
+
+print("Favorite Hobby: Gaming & Drawing")
